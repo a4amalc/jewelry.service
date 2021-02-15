@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj": {}
+    "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj": {
+    "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj",
         "projectName": "JewelryStore.Data",
-        "projectPath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj",
+        "projectPath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj",
         "packagesPath": "C:\\Users\\Amal C\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\obj\\",
+        "outputPath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

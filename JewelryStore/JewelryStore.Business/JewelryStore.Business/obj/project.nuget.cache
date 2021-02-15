@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+ftD8/FVVLpWkYhKDbdNGqq0rGgmgOlqzfgCon4eHAc4E/hEDCdV2Tl/WzCkUJCx6vAq/CPiiyuOZInXHqTMw==",
+  "dgSpecHash": "Drp5Re7Vc7giFAhyAoMW+EgNMEH4ovqilA7AfLVKWpNsWWmd61KGgPPlhJCHhqezom5uRO4P1e1exF54KpE76w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj",
+  "projectFilePath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

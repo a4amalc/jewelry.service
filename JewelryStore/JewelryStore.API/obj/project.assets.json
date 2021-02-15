@@ -5971,11 +5971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
+      "projectUniqueName": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
       "projectName": "JewelryStore.API",
-      "projectPath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
+      "projectPath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
       "packagesPath": "C:\\Users\\Amal C\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.API\\obj\\",
+      "outputPath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5994,11 +5994,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj": {
-              "projectPath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj"
+            "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj": {
+              "projectPath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj"
             },
-            "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj": {
-              "projectPath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj"
+            "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj": {
+              "projectPath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Data\\JewelryStore.Data\\JewelryStore.Data.csproj"
             }
           }
         }

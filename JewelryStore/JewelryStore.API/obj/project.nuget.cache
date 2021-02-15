@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROzI8dt4vZBO9SJn0wxL5+wFEn4jTgiLHTpgnH1sc0uPB6L3+A2ZTv6a0luL2EIqCo7Og8BIxi1apOubqF0XqQ==",
+  "dgSpecHash": "hTDGA477ysenxH+RVZqY5fEULkSvcUX3YC8xR/11l+Cu6R4RfvKb1LzvY3TPpK6zwy70sTB19IPlUGGnnCYjoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amal C\\Desktop\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
+  "projectFilePath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amal C\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
