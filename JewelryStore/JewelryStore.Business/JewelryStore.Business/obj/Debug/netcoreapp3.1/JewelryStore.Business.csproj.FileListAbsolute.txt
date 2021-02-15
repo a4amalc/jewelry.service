@@ -18,7 +18,7 @@ C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.csprojAssemblyReference.cache
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.AssemblyInfoInputs.cache
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.AssemblyInfo.cs
-C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.csproj.CoreCompileInputs.cache
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.csproj.CopyComplete
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.dll
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.pdb
+C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.Business\JewelryStore.Business\obj\Debug\netcoreapp3.1\JewelryStore.Business.csproj.CoreCompileInputs.cache

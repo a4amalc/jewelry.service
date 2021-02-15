@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Drp5Re7Vc7giFAhyAoMW+EgNMEH4ovqilA7AfLVKWpNsWWmd61KGgPPlhJCHhqezom5uRO4P1e1exF54KpE76w==",
+  "dgSpecHash": "hb/0CJfulYB5aYho81sk491eD4vXQ/eIGvOVKxutt4XQnVFrTgcGz8VFVskmji7HVkaJBYJ9QRmTg2Cx44Pe4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.Business\\JewelryStore.Business\\JewelryStore.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Amal C\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
@@ -63,7 +64,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Amal C\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

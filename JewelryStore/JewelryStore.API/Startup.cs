@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using JewelryStore.API.Infrastructure.AutofacModules;
 using JewelryStore.Data.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -37,6 +40,10 @@ namespace JewelryStore.API
                 });
             });
             services.AddDbContext<JewelryDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("myconn")));
+            var container = new ContainerBuilder();
+            container.Populate(services);
+            container.RegisterModule(new ApplicationModule());
+            new AutofacServiceProvider(container.Build());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
