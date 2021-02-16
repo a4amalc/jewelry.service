@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using JewelryStore.API.Infrastructure.AutofacModules;
+using JewelryStore.Business.Mapping;
+using JewelryStore.Business.Services;
 using JewelryStore.Data.Context;
+using JewelryStore.Data.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -39,11 +42,11 @@ namespace JewelryStore.API
                     Version = "v1"
                 });
             });
+            services.AddAutoMapper(typeof(AutoMapping));
+
             services.AddDbContext<JewelryDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("myconn")));
-            var container = new ContainerBuilder();
-            container.Populate(services);
-            container.RegisterModule(new ApplicationModule());
-            new AutofacServiceProvider(container.Build());
+            services.Add(new ServiceDescriptor(typeof(IAuthService), typeof(AuthService), ServiceLifetime.Transient));
+            services.Add(new ServiceDescriptor(typeof(IAuthRepository), typeof(AuthRepository), ServiceLifetime.Transient));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

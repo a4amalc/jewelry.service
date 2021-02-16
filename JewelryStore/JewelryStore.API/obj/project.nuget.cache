@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FT1XRumYp7kLVULOKSpBHsdFArdHP3TYO1xdD8WpR3LiZpTtQUqUXI8rsZxCa95TAQE+eXo6APAh2xdSAsUyfQ==",
+  "dgSpecHash": "LCeL/Q3OFbli0Ak+uL7v/dT1gnJj2WGfdd2BFQY9GdI5z7AOBqvcvhC2DVoNd5J+NovtHbQO+4yiJRp+AWy2dA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Amal C\\Desktop\\jewelry.store.service\\JewelryStore\\JewelryStore.API\\JewelryStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amal C\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Amal C\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Amal C\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

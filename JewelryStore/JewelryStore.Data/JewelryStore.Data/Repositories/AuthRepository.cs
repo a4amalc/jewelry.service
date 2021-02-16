@@ -16,7 +16,7 @@ namespace JewelryStore.Data.Repository
         }
         public User Login(string userName, string password)
         {
-            return _context.Users.FirstOrDefault(u => u.UserName.ToLower() == userName.ToLower() && u.Password.ToLower() == password.ToLower());
+            return _context.Users.FirstOrDefault(u => u.UserName.ToLower() == userName.ToLower() && u.Password == password);
         }
     }
 }
