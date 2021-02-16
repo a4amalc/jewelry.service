@@ -42,6 +42,16 @@ namespace JewelryStore.API
                     Version = "v1"
                 });
             });
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder
+                    .SetIsOriginAllowed((host) => true)
+                    .WithOrigins(new string[] { "http://localhost:4200" })
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
             services.AddAutoMapper(typeof(AutoMapping));
 
             services.AddDbContext<JewelryDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("myconn")));
@@ -58,7 +68,7 @@ namespace JewelryStore.API
             }
 
             app.UseRouting();
-
+            app.UseCors("CorsPolicy");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
