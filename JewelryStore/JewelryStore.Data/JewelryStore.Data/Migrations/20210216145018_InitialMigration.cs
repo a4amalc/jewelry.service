@@ -39,8 +39,8 @@ namespace JewelryStore.Data.Migrations
             //seeder
             migrationBuilder.Sql(@"INSERT INTO Roles(Name) VALUES('normal')");
             migrationBuilder.Sql(@"INSERT INTO Roles(Name) VALUES('privileged')");
-            migrationBuilder.Sql(@"INSERT INTO Users(Name,UserName,Password,RoleId,Token) VALUES('normal', 'normal.user', 'normal', 1, '5158bd98-34fc-465c-b7b8-88f998437042')");
-            migrationBuilder.Sql(@"INSERT INTO Users(Name,UserName,Password,RoleId,Token) VALUES('privileged', 'privileged.user','privileged', 2, 'cdd4a4c4-8265-46bd-b388-dc13e338d7f9')");
+            migrationBuilder.Sql(@"INSERT INTO Users(Name,UserName,Password,RoleId,Token) VALUES('normal', 'normal.user', 'TtIqt3knkBkuY0DrMT4CGw==', 1, '5158bd98-34fc-465c-b7b8-88f998437042')");
+            migrationBuilder.Sql(@"INSERT INTO Users(Name,UserName,Password,RoleId,Token) VALUES('privileged', 'privileged.user','F0MhDTIetbqL9Zcr22BjpQ==', 2, 'cdd4a4c4-8265-46bd-b388-dc13e338d7f9')");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

@@ -7,5 +7,6 @@ namespace JewelryStore.Business.Services
     public interface IAuthService
     {
         UserDto Login(LoginDto loginDto);
+        List<SettingDto> GetApplicationSettings();
     }
 }

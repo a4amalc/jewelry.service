@@ -11,6 +11,7 @@ namespace JewelryStore.Business.Mapping
 
             #region Master Data
             CreateMap<User, UserDto>();
+            CreateMap<Setting, SettingDto>();
             #endregion
 
         }

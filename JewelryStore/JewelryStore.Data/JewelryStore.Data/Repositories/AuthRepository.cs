@@ -18,5 +18,11 @@ namespace JewelryStore.Data.Repository
         {
             return _context.Users.FirstOrDefault(u => u.UserName.ToLower() == userName.ToLower() && u.Password == password);
         }
+
+        public List<Setting> GetApplicationSettings()
+        {
+            return _context.Settings.ToList();
+        }
+
     }
 }

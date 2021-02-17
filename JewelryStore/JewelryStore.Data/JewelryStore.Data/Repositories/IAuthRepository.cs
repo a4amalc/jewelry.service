@@ -7,5 +7,6 @@ namespace JewelryStore.Data.Repository
     public interface IAuthRepository
     {
         User Login(string userName, string password);
+        List<Setting> GetApplicationSettings();
     }
 }

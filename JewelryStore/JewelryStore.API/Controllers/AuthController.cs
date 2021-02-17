@@ -27,5 +27,11 @@ namespace JewelryStore.API.Controllers
         {
             return Ok(_authService.Login(loginDto));
         }
+
+        [HttpGet]
+        public IActionResult GetAppSettings()
+        {
+            return Ok(_authService.GetApplicationSettings());
+        }
     }
 }
