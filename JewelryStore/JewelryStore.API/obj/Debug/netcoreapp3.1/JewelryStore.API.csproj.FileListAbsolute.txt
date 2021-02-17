@@ -142,7 +142,9 @@ C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\obj\
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\Autofac.dll
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\obj\Debug\netcoreapp3.1\JewelryStore.API.csproj.CoreCompileInputs.cache
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\obj\Debug\netcoreapp3.1\JewelryStore.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\obj\Debug\netcoreapp3.1\JewelryStore.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\Select.Html.dep
+C:\Users\Amal C\Desktop\jewelry.store.service\JewelryStore\JewelryStore.API\bin\Debug\netcoreapp3.1\Select.HtmlToPdf.dll

@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[5.0.3, )"
             },
+            "Select.HtmlToPdf.NetCore": {
+              "target": "Package",
+              "version": "[20.2.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.0.5, )"
