@@ -13,22 +13,26 @@ namespace JewelryStore.API.Controllers
     [Route("[controller]")]
     public class AuthController : ControllerBase
     {
-        private readonly ILogger<AuthController> _logger;
         private IAuthService _authService;
 
         public AuthController(ILogger<AuthController> logger, IAuthService authService)
         {
-            _logger = logger;
             _authService = authService;
         }
 
-        [HttpPost]
+        [HttpPost("Login")]
         public IActionResult Login(LoginDto loginDto)
         {
+            if(loginDto == null)
+            {
+                return BadRequest();
+            }
             return Ok(_authService.Login(loginDto));
         }
 
-        [HttpGet]
+
+        //TODO remove this end point  and related methods toto App Settings controller and to appsettings service
+        [HttpGet("GetAppSettings")]
         public IActionResult GetAppSettings()
         {
             return Ok(_authService.GetApplicationSettings());

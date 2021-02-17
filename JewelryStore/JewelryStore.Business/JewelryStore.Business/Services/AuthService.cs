@@ -26,6 +26,7 @@ namespace JewelryStore.Business.Services
             var user = _authRepository.Login(loginDto.UserName, loginDto.Password);
             return _mapper.Map<UserDto>(user);
         }
+
         public List<SettingDto> GetApplicationSettings()
         {
             var settings = _authRepository.GetApplicationSettings();
